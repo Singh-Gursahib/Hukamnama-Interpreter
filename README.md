@@ -51,13 +51,13 @@ streamlit run app.py
 
 Navigate to `http://localhost:8501` in your web browser (Streamlit should automatically open this page when you run the application).
 
-<img src="media/screenshot.png" alt="Banner Image" style="width: 50%;">
-
 Here’s what you need to do next:
 1. **Enter the API Key**: Input your Groq API key when prompted in the sidebar.
 2. **Input the Hukamnama URL**: Ensure the URL is from the designated Sikhnet page.
 3. **Describe Your Query**: Enter your personal spiritual query or context for which you need guidance.
 4. **Interpret Hukamnama**: Click the 'Interpret Hukamnama' button to receive your personalized guidance.
+
+<img src="media/ss.png" alt="SS Image" style="width: 100%;">
 
 
 ## Contributing
