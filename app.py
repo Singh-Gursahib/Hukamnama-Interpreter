@@ -57,6 +57,8 @@ def format_english_translation(english_lines):
     return '\n'.join(f'• {line}' for line in english_lines)
 
 def main():
+    global client  
+
     st.title("Hukamnama Interpreter")
     # Display the sidebar with instructions and the option to enter API key
     with st.sidebar:
